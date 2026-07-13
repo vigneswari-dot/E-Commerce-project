@@ -100,3 +100,60 @@ In the upcoming weeks, the project will include:
 ## License
 
 This project is submitted for academic purposes only.
+
+# WEEK 2 
+# README
+
+## Project Title
+
+**E-Commerce Order Management Database System**
+
+## Description
+
+The E-Commerce Order Management Database System is designed to manage online shopping activities efficiently. It stores and organizes customer details, product information, orders, payments, and shipment records in a structured database. The system helps improve data accuracy, reduces redundancy, and supports smooth order processing.
+
+## Documents Included
+
+* Business_Requirement_Document.docx
+* SRS_Document.docx
+* Entity_Analysis_Report.docx
+* Entity_Relationship_Analysis.docx
+
+## Main Entities
+
+* Customer
+* Product
+* Category
+* Order
+* Order_Item
+* Payment
+* Shipment
+
+## Relationships
+
+* One Customer can place multiple Orders.
+* One Category contains multiple Products.
+* One Order contains multiple Order Items.
+* One Product can appear in multiple Order Items.
+* One Order has one Payment.
+* One Order has one Shipment.
+
+## Software Used
+
+* Microsoft Word
+* Draw.io / Lucidchart (for ER Diagram)
+* MySQL (Database Design)
+* Windows Operating System
+
+## Project Objectives
+
+* Maintain customer information.
+* Manage products and categories.
+* Process customer orders.
+* Record payment details.
+* Track shipment status.
+* Reduce data redundancy through proper database design.
+
+## Conclusion
+
+This project provides a well-structured database design for an E-Commerce Order Management System. The documents included in this project explain the business requirements, software requirements, entity analysis, and entity relationships, which serve as the foundation for implementing the database system.
